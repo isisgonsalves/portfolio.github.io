@@ -1,5 +1,7 @@
-PROJECT TITLE: My first portfolio website
+PROJECT TITLE: 
 -
+My first portfolio website
+
 AUTHOR:
 -
 Isis Gonsalves
