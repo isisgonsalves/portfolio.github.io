@@ -1,5 +1,8 @@
 PROJECT TITLE: My first portfolio website
-PROJECT DESCRIPTION: This website previews myself as an individual. 
+-
+PROJECT DESCRIPTION:
+-
+This website previews myself as an individual. 
 It includes my bio, my qualifications, my projects and a means to contact me.
 
 What was my motivation?
