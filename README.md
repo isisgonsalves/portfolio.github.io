@@ -1,5 +1,13 @@
 PROJECT TITLE: My first portfolio website
 -
+AUTHOR:
+-
+Isis Gonsalves
+
+DATE LAST UPDATED:
+-
+26.01.2024
+
 PROJECT DESCRIPTION:
 -
 This website previews myself as an individual. 
@@ -32,5 +40,3 @@ What can I improve?
 Alot of things actually. As mentioned before, this is truly my first project. The most crucial thing that I need to implement is a mobile view. 
 I am terrified to see how my website currently translates.
 
-AUTHOR:Isis Gonsalves
-DATE LAST UPDATED: 26.01.2024
