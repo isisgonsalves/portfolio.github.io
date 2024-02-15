@@ -790,7 +790,7 @@ form .btn3{
 
 /*-------------------------------------------------------------------*/
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 414px) {
   .container {
     padding: 6px; /* Adjusted padding for smaller screens */
 
